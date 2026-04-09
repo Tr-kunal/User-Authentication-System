@@ -1,7 +1,6 @@
 # Production-Ready Authentication & User Profile System
 
-A clean, secure, production-inspired authentication and user profile backend system suitable for a software engineering / backend / full-stack resume project.
-
+A clean, secure, production-inspired authentication and user profile backend system.
 ## Features
 - **User Registration**: Secure password hashing, validations, role assumptions.
 - **JWT Authentication**: Login to receive token. Tokens protect routes.
